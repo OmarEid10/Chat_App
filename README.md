@@ -21,3 +21,6 @@ npm run build
 ```shell
 npm start
 ```
+
+### visit the website 
+https://chat-app-1nuf.onrender.com
